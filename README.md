@@ -37,10 +37,6 @@ git clone https://github.com/yourusername/pokedex-compose.git
 
 3. Run the app on an emulator or physical device
 
-## 📱 App Screenshots
-
-[Add your screenshots here]
-
 ## 🎮 Usage
 
 ### Browse Pokémon List
